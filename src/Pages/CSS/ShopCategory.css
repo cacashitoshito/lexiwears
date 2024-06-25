@@ -2,12 +2,17 @@
     display: block;
     margin: 30px auto;
     width: 82%;
+    height: 30vh;
 }
 .shopcategory-indexSort{
     display: flex;
     margin: 0px 170px;
     justify-content: space-between;
     align-items: center;
+}
+img{
+    width: 70%;
+    height: 40%;    
 }
 .shopcategory-sort{
     padding: 10px 20px;
